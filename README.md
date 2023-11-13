@@ -1,0 +1,2 @@
+# project-capstone-modul1-purwadhika-batam
+PENCATATAN STOK BARANG UNTUK PERUSAHAAN INTERNET SERVICE PROVIDER
